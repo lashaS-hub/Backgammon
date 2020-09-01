@@ -1,1 +1,1 @@
-# Shortcut to [scripts](Backgammon/Assets/Scripts)
+# Shortcut to [scripts](Assets/Scripts)
